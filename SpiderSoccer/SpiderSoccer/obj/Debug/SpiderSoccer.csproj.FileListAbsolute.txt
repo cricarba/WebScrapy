@@ -1,0 +1,30 @@
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\bin\Debug\SpiderSoccer.exe.config
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\bin\Debug\SpiderSoccer.exe
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\bin\Debug\SpiderSoccer.pdb
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\bin\Debug\IronWebScraper.dll
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\bin\Debug\IronWebScraper.xml
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\obj\Debug\SpiderSoccer.csprojResolveAssemblyReference.cache
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\obj\Debug\SpiderSoccer.exe
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\obj\Debug\SpiderSoccer.pdb
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\bin\Debug\CriCarBa.Contenedor.dll
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\bin\Debug\CriCarBa.Datos.dll
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\bin\Debug\CriCarBa.Dominio.dll
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\bin\Debug\CriCarBa.ServiciosAplicacion.dll
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Freddy Castelblanco\Documents\Visual Studio 2015\Projects\SpiderSoccer\SpiderSoccer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Freddy Castelblanco\Documents\Projectos\SpiderSoccer\SpiderSoccer\bin\Debug\SpiderSoccer.exe.config
+C:\Users\Freddy Castelblanco\Documents\Projectos\SpiderSoccer\SpiderSoccer\bin\Debug\SpiderSoccer.exe
+C:\Users\Freddy Castelblanco\Documents\Projectos\SpiderSoccer\SpiderSoccer\bin\Debug\SpiderSoccer.pdb
+C:\Users\Freddy Castelblanco\Documents\Projectos\SpiderSoccer\SpiderSoccer\bin\Debug\IronWebScraper.dll
+C:\Users\Freddy Castelblanco\Documents\Projectos\SpiderSoccer\SpiderSoccer\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Freddy Castelblanco\Documents\Projectos\SpiderSoccer\SpiderSoccer\bin\Debug\MongoDB.Driver.dll
+C:\Users\Freddy Castelblanco\Documents\Projectos\SpiderSoccer\SpiderSoccer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Freddy Castelblanco\Documents\Projectos\SpiderSoccer\SpiderSoccer\bin\Debug\MongoDB.Bson.dll
+C:\Users\Freddy Castelblanco\Documents\Projectos\SpiderSoccer\SpiderSoccer\bin\Debug\IronWebScraper.xml
+C:\Users\Freddy Castelblanco\Documents\Projectos\SpiderSoccer\SpiderSoccer\obj\Debug\SpiderSoccer.csprojResolveAssemblyReference.cache
+C:\Users\Freddy Castelblanco\Documents\Projectos\SpiderSoccer\SpiderSoccer\obj\Debug\SpiderSoccer.csproj.CoreCompileInputs.cache
+C:\Users\Freddy Castelblanco\Documents\Projectos\SpiderSoccer\SpiderSoccer\obj\Debug\SpiderSoccer.exe
+C:\Users\Freddy Castelblanco\Documents\Projectos\SpiderSoccer\SpiderSoccer\obj\Debug\SpiderSoccer.pdb
